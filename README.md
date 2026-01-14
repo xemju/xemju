@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://portfolio-pied-ten-wq77oh66ff.vercel.app">
+<a href="[https://jeffaguilar-portfolio.vercel.app]">
   <img src="https://img.shields.io/badge/Portfolio-View%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/jeff-aguilar-58ab7134a/">
@@ -62,5 +62,5 @@
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 Portfolio → https://portfolio-pied-ten-wq77oh66ff.vercel.app  
+- 🌐 Portfolio → https://jeffaguilar-portfolio.vercel.app  
 - 💼 LinkedIn → https://www.linkedin.com/in/jeff-aguilar-58ab7134a/  
