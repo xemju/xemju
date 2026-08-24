@@ -201,7 +201,7 @@
 
 <p>I'm always open to collaboration, freelance projects, and new opportunities!</p>
 
-<a href="https://jeffaguilar-portfolio.vercel.app">
+<a href="https://www.jeffaguilar.dev">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" height="40">
 </a>
 <a href="mailto:aguilarjeff03@gmail.com">
