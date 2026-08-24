@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://jeffaguilar-portfolio.vercel.app">
+<a href="https://www.jeffaguilar.dev">
   <img src="https://img.shields.io/badge/🌐_Portfolio-View_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" height="35">
 </a>
 <a href="mailto:aguilarjeff03@gmail.com">
