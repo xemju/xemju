@@ -35,12 +35,14 @@
 <tr>
 <td width="60%">
 
-- 🎓 **Information Technology** student passionate about web development
-- 🌐 **Full-Stack Web Developer** building modern, responsive applications
+- 🎓 **BS Information Technology graduate** from STI College Caloocan
+- 🌐 **Web developer** focused on frontend development and growing toward full-stack work
 - 🖥️ **IT Support Specialist** with hands-on troubleshooting experience
 - 🎨 **UI/UX Designer** focused on intuitive user interfaces
 - 📍 Based in **Navotas, Philippines**
-- ✨ Committed to clean code, best practices, and continuous learning
+- 🏆 **Best Capstone Award** for SignMaster at STI College Caloocan
+- 🔨 Recent work: **AlephVet** frontend development, responsive layouts, and UI refinement
+- ✨ I enjoy turning practical workflows into clear, accessible interfaces
 
 </td>
 <td width="40%" align="center">
@@ -66,8 +68,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+### 📱 Frameworks & Mobile
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
 ### 💻 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -105,6 +117,25 @@
 
 <table>
 <tr>
+<td colspan="2">
+<h3 align="center">🐾 AlephVet — Latest Work</h3>
+<div align="center">
+  <a href="https://alephvetclinic.com">
+    <img src="https://www.jeffaguilar.dev/assets/images/alephvet.png" width="650" alt="AlephVet veterinary clinic management interface" />
+  </a>
+  <p><strong>Veterinary clinic management system · Team project</strong></p>
+  <p>I develop and refine the frontend, turning clinic workflows into responsive interfaces for desktop and tablet. My contributions include page layouts, forms, dropdowns, modals, clinical records, and examination details.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  </p>
+  <p><a href="https://alephvetclinic.com">Visit AlephVet ↗</a> · <a href="https://www.jeffaguilar.dev/#work">My role & project details ↗</a></p>
+</div>
+</td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">🏢 SDO Quezon City Queuing System</h3>
 <div align="center">
@@ -112,7 +143,7 @@
     <img src="https://github.com/user-attachments/assets/7ea0ca44-3997-463c-8a67-e0022b8c0339" width="100%" alt="SDO Quezon City Queuing System"/>
   </a>
   <p>
-    <strong>QR-based queuing management system</strong> for the Schools Division Office of Quezon City — minimizing client wait times and reducing congestion.
+    <strong>QR-based queuing management system</strong> for the Schools Division Office of Quezon City, organizing client queues with QR-based entry and clear queue progress.
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -134,10 +165,11 @@
     <img src="https://github.com/user-attachments/assets/5c61b535-e15c-48f9-bbc2-95a54bb661e5" width="100%" alt="SignMaster"/>
   </a>
   <p>
-    <strong>AI-powered sign language recognition</strong> system enabling real-time communication for deaf students.
+    <strong>Filipino Sign Language learning and recognition</strong> for web and mobile. I built the interfaces as part of my BSIT capstone, which received the <strong>Best Capstone Award</strong> at STI College Caloocan.
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native" />
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000"/>
@@ -152,17 +184,31 @@
 </tr>
 
 <tr>
-<td width="100%" colspan="2">
+<td width="50%">
 <h3 align="center">🅿️ ParkHub</h3>
 <div align="center">
   <p>
-    <strong>Parking management system</strong> with real-time spot detection and plate number recognition.
+    <strong>Parking management system</strong> built with C# and MySQL, with spot detection and plate number recognition.
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat-square&logo=opencv&logoColor=white"/>
   </p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🌐 Personal Portfolio</h3>
+<div align="center">
+  <p><strong>My work, skills, and development journey</strong></p>
+  <p>A responsive React portfolio featuring project previews, light and dark themes, accessible navigation, and smooth interactions with reduced-motion support.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white" alt="Lucide" />
+  </p>
+  <p><a href="https://www.jeffaguilar.dev">Explore my portfolio ↗</a></p>
 </div>
 </td>
 </tr>
